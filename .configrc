@@ -1,0 +1,127 @@
+{
+  "ports": {
+    "client": 5000,
+    "server": 5001
+  },
+  "seed": {
+    "short_name":"SHORT_NAME",
+    "name":"TITLE",
+    "start_url":"/",
+    "background_color":"#000000",
+    "display":"standalone",
+    "theme_color":"#000000",
+    "icons":[{
+      "src":"/img/icon-192.png",
+      "type":"image/png",
+      "sizes":"192x192"
+    }, {
+      "src":"/img/icon-512.png",
+      "type":"image/png",
+      "sizes":"512x512"
+    }]
+  },
+  "secrets": {
+    "linkedin": {
+      "clientId": "12345",
+      "clientSecret": "abcde"
+    },
+    "github": {
+      "clientId": "12345",
+      "clientSecret": "abcde"
+    },
+    "firebase": {
+      "apiKey": "abcde"
+    },
+    "ipwa": {
+      "encryptKey": "abcde"
+    },
+    "sendInBlue": {
+      "user": "user",
+      "pass": "pass"
+    },
+    "paytm": {
+      "merchantId": {
+        "test": "abcde",
+        "prod": "abcde"
+      },
+      "merchantKey": {
+        "test": "abcde",
+        "prod": "abcde"
+      }
+    }
+  },
+  "urls": {
+    "linkedin": {
+      "authUrl": "https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=<clientId>&redirect_uri=<redirectUrl>&scope=r_liteprofile%20r_emailaddress%20w_member_social",
+      "accessTokenUrl": "https://www.linkedin.com/oauth/v2/accessToken",
+      "apiUrl": "https://api.linkedin.com/v2/emailAddress?q=members&projection=(elements*(handle~))"
+    },
+    "github": {
+      "authUrl": "https://github.com/login/oauth/authorize?scope=user:email&client_id=<clientId>&redirect_uri=<redirectUrl>&state=<state>",
+      "accessTokenUrl": "https://github.com/login/oauth/access_token",
+      "apiUrl": "https://api.github.com/user"
+    },
+    "firebase": {
+      "authDomain": "ipwa-app.firebaseapp.com",
+      "databaseURL": "https://ipwa-app.firebaseio.com",
+      "storageBucket": "ipwa-app.appspot.com"
+    }
+  },
+  "alerts": {
+    "github": {
+      "access_token": {
+        "message": "Error while connecting to Github!",
+        "duration": "5000"
+      },
+      "data": {
+        "message": "Error while fetching from Github!",
+        "duration": "5000"
+      },
+      "login_success": {
+        "message": "Logged in with Github!",
+        "duration": "5000"
+      }
+    },
+    "linkedin": {
+      "access_token": {
+        "message": "Error while connecting to Linkedin!",
+        "duration": "5000"
+      },
+      "data": {
+        "message": "Error while fetching from Linkedin!",
+        "duration": "5000"
+      },
+      "login_success": {
+        "message": "Logged in with Linkedin!",
+        "duration": "5000"
+      }
+    },
+    "paytm": {
+      "success": {
+        "message": "Danke Schöne!",
+        "duration": "5000"
+      },
+      "failure": {
+        "message": "Payment failed!",
+        "duration": "5000"
+      }
+    },
+    "general": {
+      "logout": {
+        "message": "Successfully logged out!",
+        "duration": "5000"
+      }
+    }
+  },
+  "props": {
+    "name": "iPWA Admin",
+    "email": "hi@jsdrome.com",
+    "url": "http://localhost:5001"
+  },
+  "firebase": {
+    "apiKey": "abcde",
+    "authDomain": "ipwa-core.firebaseapp.com",
+    "databaseURL": "https://ipwa-core.firebaseio.com",
+    "storageBucket": "ipwa-core.appspot.com"
+  }
+}

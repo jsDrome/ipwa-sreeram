@@ -1,0 +1,29 @@
+# First day in Germany
+
+&nbsp;
+
+The day I landed at the Berlin Tegel Airport, it was gloomy. It had just rained. Berlin TXL is not a big airport. Nothing compared to Heathrow. The other airport at Schonefeld must be bigger. I wanted to convert a few hundred pounds I had from the UK but there was no exchange facility in the airport. It was comparable to the airport in Trivandrum which is where I'm from. After half an hour of standing in the queue to clear immigration, I was into the country. Damn my UK sim didnt work for god knows why. I had internet in it and it not working meant that I didnt have google maps and the airport didnt have a public wifi. Thankfully I had few hours of International Roaming internet in my India sim. I wanted to catch an Uber or airport taxi but my uber was not setup. I had no phone number for the driver to contact. And there was no facility to get an Aiport taxi. Brilliant!
+
+So I followed the signs to the next floor to catch the bus and voila! Now it felt like an Airport. Taxis, buses, were all just outside and all I needed to do was follow the signs. The plan was to live at my friends place temporarily and it was just a 15 minute bus ride from the airport. So I decided to take the bus and not airport taxi. What about the tickets though? Thankfully again, I had some euros left from my trips to Europe and all I needed to do was board the bus, pay the driver and in about half an hour after a little struggle with google maps, I was home. It was at a place called *Reinickendorf*. It took me a week to learn that name. I was to stay here only for a week though.
+
+The place looked deserted. It seemed most people in Germany confine themselves inside their homes. This felt creepy. You could hardly see anyone on the roads. But a lot of cars were parked. Where are all the people? Coming from London which is super crowded, this sure did feel creepy to me. At that moment, I missed London terribly. I missed London, my family, my hometown, I missed some noise. Gosh did I make the wrong decision? I felt.
+
+The day passed when I had to visit a nearby supermarket to get some food. This went okay because it was almost like Tesco or Iceland in the UK until the moment you have to pay. By default, they speak German. I had to manage with one word questions and answers like "bag", "change", "english?" etc. Although the German for "Thank you" is not that difficult, its just "Danke". Not the worst experience.
+
+## Then came the Sunday
+
+Nothing in Germany works on a Sunday. Nothing! No shops, no restaurants, nothing! Except transport. Thank goodness coz I had setup a viewing at *Mitte*. It was an amazing luxury apartment at the best place in Berlin and 10 minutes away from my work by walk. Everything ticked except the landlord decided to up the rent by a 100 euros and it was over my budget. There were shops open there. I had a hot chocolate. Roamed for a while and decided to go back home as it started drizzling.
+
+## The Vietnamese store
+
+I had stopped by a vietnamese restaurant on my way to the viewing near my house. I had a soup there the name of which I forgot. So when I went back home, I decided to stop by again and have the dinner. I had a noodle bowl or something. It was so spicy the shopkeeper gave me a litchi drink for free. As a sign of friendship, from an asian to another. I accepted it, thanked for it and said "Bis morgan" which I had learnt just 5 minutes ago from a handbook I had, which he didnt understand. Then I said "Bis bahlt" which means "See you later" which he didnt understand either. Then I showed him the book and then he said.. *"Aah bis bahlt, bis bahlt!"* and that made my day.
+
+## Way to work
+
+The next day I had to find my way to work. It was raining. It was gloomy. Not the start I had in mind. Google maps showed me a path which led through a private way. There was no one to ask if its okay to go there. But I decided to pass through it anyway. To my bad luck as always, the other end of the entry was locked with a gate. I cursed myself to have trusted Google Maps. Now I had to walk all the way round and it would easily cost me at least 15 minutes. Thats when I saw a lady pass by and I asked her if she spoke English to which she said she spoke a little bit. I explained her the situation and she smiled and took out a bunch of keys from her bag and gladly opened the gate for me. I said "danke" and she replied *"bitte bitte"*. So very sweet!
+
+## First day at work
+
+It was amazing. Everybody knew what it meant for someone to relocate to a different part of the world. They had been there themselves and were very supportive. I absolutely felt home in just a few hours. Couldnt have asked for a better start. Whats more interesting is that there are more people joining in 2 months by which time I will not be the newest guy in the team. I got the joining goodies of several things like a Macbook pro, a keyboard, a mouse, a headset, 2 new monitors, bottles, chocolates, stickers, a hooded t-shirt, a book and not to mention the perks the best of them being the almost free lunch and travel. It cost me about 300£-400£ a month in London. It costs me 100 here. Such a huge difference. We went to a Japanese restaurant nearby as a team and I felt completely at home with the guys. So amazing, so down to earth people! What started as a gloomy day ended superbly for me.
+
+I have reached a stage where I have realised that the choices I make in life always work in my favor. Because, thinking back, my first 25 years was not just the hard work of me, it was also of all the people around me to bring the best out of me.
