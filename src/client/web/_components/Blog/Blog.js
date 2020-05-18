@@ -12,7 +12,7 @@ const Blog = ({ match }) => {
   const content = require(`./posts/${folder}/${subfolder}/${post}.md`).default;
   const navLinks = getLinks(folder, subfolder, post);
 
-  return <div>
+  return <div className="Blog">
     <Content>
       <Markdown>
         {content}

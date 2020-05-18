@@ -1,5 +1,3 @@
-<img src="/img/berlin.jpg" title="berlin" class="post-first-image" />
-
 # Moving to Germany from India
 
 &nbsp;

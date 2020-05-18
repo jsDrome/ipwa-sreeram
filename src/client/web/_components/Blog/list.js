@@ -162,7 +162,13 @@ const getLinks = (folder, subfolder, post) => {
   };
 };
 
+const getTitle = route => {
+  const post = list.find(item => item.route === route);
+  return post ? `Sreeram Padmanabhan - ${post.title} | Web of Thoughts` : 'Sreeram Padmanabhan | Web Engineer | Web of thoughts';
+};
+
 module.exports = {
   list,
   getLinks,
+  getTitle,
 };

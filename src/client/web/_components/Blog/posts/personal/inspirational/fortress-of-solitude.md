@@ -1,4 +1,4 @@
-<img src="/img/fortress.jpg" title="fortress" class="post-first-image" />
+<img style="width: 100%; margin-bottom: 20px;" src="/img/fortress.jpg" title="fortress" />
 
 # Marlon Brando Fortress of Solitude speech in Superman
 

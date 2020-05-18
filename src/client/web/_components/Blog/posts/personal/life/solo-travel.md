@@ -1,5 +1,3 @@
-<img src="/img/solo-travel.jpg" title="solo-travel" class="post-first-image" />
-
 # My solo travel adventure
 
 &nbsp;

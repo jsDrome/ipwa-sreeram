@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet";
 const time = new Date().getTime();
 
 const MetaTags = () => <Helmet>
-  <title>Sreeram Padmanabhan | Web Engineer | Web of thoughts</title>
+  {/* <title>Sreeram Padmanabhan | Web Engineer | Web of thoughts</title> */}
   <meta charset="UTF-8" />
   <meta name="theme-color" content="#ffffff" />
   <meta name="author" content="Sreeram Padmanabhan" />
@@ -12,7 +12,7 @@ const MetaTags = () => <Helmet>
   <meta property="og:image:alt" content="sreeram padmanabhan" />
   <meta name="description" content="An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency." />
   <meta property="og:description" content="An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency." />
-  <meta property="og:title" content="Sreeram Padmanabhan - Web Engineer | Web of thoughts" />
+  {/* <meta property="og:title" content="Sreeram Padmanabhan - Web Engineer | Web of thoughts" /> */}
   <meta property="og:url" content="https://sreeram.app/" />
   <meta property="og:image" content="/img/og_image.jpg" />
   <meta property="og:type" content="website" />
@@ -43,33 +43,47 @@ const MetaTags = () => <Helmet>
   *, *:before, *:after {
     box-sizing: border-box;
   }
-  .post img {
-    height: auto;
-    overflow: hidden;
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  pre {
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 80%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    background: #f3f5f6;
+    padding: 10px;
+    border: dashed 1px #ccc;
+    text-align: left
+  }
+  code {
+    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    background: #f3f5f6;
+    text-align: left
+  }
+  .clearfix {
+    clear: both;
+  }
+  #iframe {
     display: block;
-    width: 100%;
-    margin: 20px 0;
+    margin: -15px 0 0 -15px;
+    width: calc(100% + 30px);
   }
-  .post-first-image {
-    width: calc(100% + 30px) !important;
-    margin: -15px -15px 15px -15px !important;
-  }
-  .left-float-img {
-    width: 150px !important;
-    border: none;
-    display: block;
-    float: left;
-    margin: 0 !important;
-    margin-right: 15px !important;
-    margin-bottom: 5px !important;
-  }
-  .img-out {
-    width: calc(100% + 30px) !important;
-    margin-left: -15px !important;
-    margin-right: -15px !important;
-  }
-  .img-portrait {
-    height: 400px !important;
+  @media (max-width: 600px) {
+    #iframe {
+      margin-top: -65px;
+    }
   }
   `}
   </style>

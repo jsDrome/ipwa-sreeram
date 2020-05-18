@@ -1,16 +1,14 @@
 export default () => ({
   social: {
-    width: 400,
+    width: 300,
     margin: 'auto',
     marginBottom: 15,
-    display: 'flex',
-    justifyContent: 'space-evenly',
   },
   socialLink: {
-    // marginRight: 2,
+    margin: 1,
   },
   socialIcon: {
-    height: 25,
-    width: 25,
+    height: 30,
+    width: 30,
   },
 });

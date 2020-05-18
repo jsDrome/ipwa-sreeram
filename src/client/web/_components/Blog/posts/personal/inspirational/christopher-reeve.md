@@ -1,4 +1,4 @@
-<img src="/img/christopher-reeve.jpg" title="christopher-reeve" class="post-first-image" />
+<img style="width: 100%; margin-bottom: 20px;" src="/img/christopher-reeve.jpg" title="christopher-reeve" />
 
 # Christopher Reeve
 

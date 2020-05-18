@@ -1,5 +1,5 @@
 
-<img src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/IMG_4054.JPG?alt=media&token=a332b9fb-0d8f-446d-aadb-c2b892345d10' title='london eye reflection' class='post-first-image' />
+<img style="width: 100%; margin-bottom: 20px;" src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/IMG_4054.JPG?alt=media&token=a332b9fb-0d8f-446d-aadb-c2b892345d10' title='london eye reflection' />
 
 # The best photo I've ever taken
 

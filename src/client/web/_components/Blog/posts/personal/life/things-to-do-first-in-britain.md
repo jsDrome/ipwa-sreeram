@@ -1,5 +1,3 @@
-<img src="/img/great-britain.jpg" title="great-britain" class="post-first-image" />
-
 # Things to do post moving to the UK
 
 &nbsp;

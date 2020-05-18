@@ -1,4 +1,4 @@
-<img src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/IMG_4429.jpg?alt=media&token=112a5e93-2dc3-42a9-bfee-d067609cf1ee' title='view from my work desk' class='post-first-image img-portrait' />
+<img style="width: 100%; margin-bottom: 20px;" src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/IMG_4429.jpg?alt=media&token=112a5e93-2dc3-42a9-bfee-d067609cf1ee' title='view from my work desk' />
 
 ## The view from my desk at work
 #### 17 Jan 2019

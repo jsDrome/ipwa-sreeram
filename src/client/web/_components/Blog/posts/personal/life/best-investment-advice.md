@@ -1,5 +1,3 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/blog%2Fundraw_investing_7u74.svg?alt=media&token=67dc4323-dbff-4b94-a5f0-9316a2ff43b0" title="firebase hosting" class="post-first-image" />
-
 # My take on Investing
 
 &nbsp;

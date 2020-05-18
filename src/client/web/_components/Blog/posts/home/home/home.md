@@ -1,8 +1,8 @@
-# Hallo, I'm Sreeram!
+# Hallo, Ich bin Sreeram!
 
 &nbsp;
 
-<img loading="lazy" src="/img/sreeram.jpg" title="sreeram padmanabhan" class="left-float-img" />
+<img style="float: left; height: 150px; width: 150px; margin-right: 10px" loading="lazy" src="/img/sreeram.jpg" title="sreeram padmanabhan" />
 
 **Hallo leute!** I am Sreeram Padmanabhan. Friends call me Siri or Sree. I am a Web Engineer and this is my personal website, Web of Thoughts. I am the founder of jsDrome. I also created and run the [Z Axis Challenge](https://zaxis.jsdrome.com). I am also a trainer and a photographer. I travel regularly and have so far covered 13 countries and several cities. I will be covering a lot more over the next years. Currently, I live in Berlin, Germany and I am a Lead Engineer at Delivery Hero.
 
@@ -13,5 +13,4 @@ This is my personal website / technical blog. I write about things I find intere
 ## Get in touch with me
 If you'd like to attend my trainings, or just ask me something, or maybe even have a chat over coffee, there are various ways you could get in touch with me - Like LinkedIn, Facebook, Instagram, Twitter etc. Find the links at the bottom of the page.
 
-## Contribute
-Keeping this site up costs me money and a great deal of sleep. Sponsoring me a lunch will go a long way.
+*Dankeschöne!*

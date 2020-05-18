@@ -1,4 +1,4 @@
-<img src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/IMG_0073.jpg?alt=media&token=6bd5a5d3-e928-463d-96a0-7dcaaa974cb1' title='view from home' class='post-first-image img-portrait' />
+<img style="width: 100%; margin-bottom: 20px;" src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/IMG_0073.jpg?alt=media&token=6bd5a5d3-e928-463d-96a0-7dcaaa974cb1' title='view from home' />
 
 # The view from my home balcony in Trivandrum
 

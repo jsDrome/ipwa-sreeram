@@ -22,11 +22,11 @@ Amazing how I had just been thinking about this today and here was this question
 
 And finally, this is me over 2009–2019.
 
-<img alt='sreeram padmanabhan' class='left-float-img' src='https://qph.fs.quoracdn.net/main-qimg-131e90f77e69d79f3f403e6bdcb859aa'/>
-<img alt='sreeram padmanabhan' class='left-float-img' src='https://qph.fs.quoracdn.net/main-qimg-19a1842aecf15bbd591e0be3c6d29714'/>
-<img alt='sreeram padmanabhan' class='left-float-img' src='https://qph.fs.quoracdn.net/main-qimg-e3a48a72683a83f3838eabdade48292b'/>
-
-<div class='clearfix'/>
+<div style="display: flex; align-items: center; justify-content: center">
+  <img style="width: calc(33% - 2px); max-height: 150px; max-width:150px" alt='sreeram padmanabhan' src='https://qph.fs.quoracdn.net/main-qimg-131e90f77e69d79f3f403e6bdcb859aa'/>
+  <img style="width: calc(33% - 2px); max-height: 150px; max-width:150px" alt='sreeram padmanabhan' src='https://qph.fs.quoracdn.net/main-qimg-19a1842aecf15bbd591e0be3c6d29714'/>
+  <img style="width: calc(33% - 2px); max-height: 150px; max-width:150px" alt='sreeram padmanabhan' src='https://qph.fs.quoracdn.net/main-qimg-e3a48a72683a83f3838eabdade48292b'/>
+</div>
 
 &nbsp;
 

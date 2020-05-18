@@ -6,7 +6,7 @@ import { ServerStyleSheets } from '@material-ui/core/styles';
 import { StaticRouter } from 'react-router-dom';
 
 import Routes from '../../client/web/routes';
-
+import { getTitle } from '../../client/web/_components/Blog/list';
 import { isUserLoggedIn, getEmailFromCookies } from '../server.utils';
 
 const router = express.Router();
@@ -26,12 +26,15 @@ router.get('/(:a/:b/:c/:d)?', (req, res) => {
 
   const css = sheets.toString();
   const helmet = Helmet.renderStatic();
-  return res.send(template(helmet, app, css, _isUserLoggedIn, _user));
+  const title = getTitle(req.url);
+  return res.send(template(helmet, app, css, _isUserLoggedIn, _user, title));
 });
 
-const template = (helmet, html, css, isUserLoggedIn, user) => `
+const template = (helmet, html, css, isUserLoggedIn, user, title) => `
   <html ${helmet.htmlAttributes.toString()}>
     <head>
+      <title>${title}</title>
+      <meta property="og:title" content="${title}" />
       ${helmet.title.toString()}
       ${helmet.meta.toString()}
       ${helmet.link.toString()}

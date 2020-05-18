@@ -1,5 +1,3 @@
-<img src="/img/indians-in-uk.jpg" title="indians-in-uk" class="post-first-image" />
-
 # How are Indians treated in Britain?
 
 &nbsp;

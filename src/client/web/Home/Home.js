@@ -50,7 +50,7 @@ const HomeLayout = ({ classes, match }) => {
       title="Sreeram Padmanabhan"
       description="Web of thoughts"
       isUserLoggedIn={get(window._ipwa, 'isUserLoggedIn')}
-      onRegisterClick={() => false}
+      // onRegisterClick={() => false}
       onMenuButtonClick={() => setSidebarOpen(true)}
       appBarProps={appBarProps}/>
     <Toolbar />

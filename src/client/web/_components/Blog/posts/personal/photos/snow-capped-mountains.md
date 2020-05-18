@@ -1,4 +1,4 @@
-<img src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/main-qimg-e7c3e6b75725d43e7355ca853d81ede8.jpg?alt=media&token=d84dff5c-85c5-4c55-9eff-af5699ec1af9' title='snow capped mountains' class='post-first-image img-out' />
+<img style="width: 100%; margin-bottom: 20px;" src='https://firebasestorage.googleapis.com/v0/b/zaxisapp.appspot.com/o/main-qimg-e7c3e6b75725d43e7355ca853d81ede8.jpg?alt=media&token=d84dff5c-85c5-4c55-9eff-af5699ec1af9' title='snow capped mountains' />
 
 # The coolest thing I've seen from an Airplane
 

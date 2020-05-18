@@ -1,4 +1,4 @@
-<img src="/img/cosmos.jpg" title="cosmos" class="post-first-image" />
+<img style="width: 100%; margin-bottom: 20px;" src="/img/cosmos.jpg" title="cosmos" />
 
 # Edge of Forever by Carl Sagan (Cosmos)
 

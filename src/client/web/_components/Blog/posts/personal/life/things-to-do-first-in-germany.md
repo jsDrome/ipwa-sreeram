@@ -1,5 +1,3 @@
-<img src="/img/berlin.jpg" title="berlin" class="post-first-image" />
-
 # Things to do after moving to Germany
 
 &nbsp;

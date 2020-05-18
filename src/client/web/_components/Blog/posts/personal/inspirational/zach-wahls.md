@@ -1,4 +1,4 @@
-<img src="/img/zach-wahls.jpg" title="zach-wahls" class="post-first-image" />
+<img style="width: 100%; margin-bottom: 20px;" src="/img/zach-wahls.jpg" title="zach-wahls" />
 
 # Zach Wahls speech in 2011
 

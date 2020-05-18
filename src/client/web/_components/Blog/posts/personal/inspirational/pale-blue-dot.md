@@ -1,4 +1,4 @@
-<img src="https://qphs.fs.quoracdn.net/main-qimg-e954b4948554c80e7181f07a00ddac99" title="pale-blue-dot" class="post-first-image" />
+<img style="width: 100%; margin-bottom: 20px;" src="https://qphs.fs.quoracdn.net/main-qimg-e954b4948554c80e7181f07a00ddac99" title="pale-blue-dot" />
 
 # Pale Blue Dot by Carl Sagan
 
