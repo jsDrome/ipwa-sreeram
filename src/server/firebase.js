@@ -24,7 +24,7 @@ admin.initializeApp();
 
 const runtimeOpts = {
   timeoutSeconds: 60,
-  // memory: '2GB',
+  memory: '2GB',
 };
 
 export const myExpressApp = functions.runWith(runtimeOpts).https.onRequest(server);

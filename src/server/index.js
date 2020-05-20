@@ -51,6 +51,7 @@ app.use('/', home);
 app.use('/login', login);
 app.use('/logout', logout);
 app.use('/pay', payTM);
+app.use('/ads.txt', (req, res) => res.send('google.com, pub-6831276331714408, DIRECT, f08c47fec0942fa0'));
 app.use(express.static('.'));
 
 app.listen(port, () => console.log(`SERVER: Listening on port ${port}`));

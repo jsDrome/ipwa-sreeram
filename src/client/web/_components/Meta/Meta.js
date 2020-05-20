@@ -13,7 +13,6 @@ const MetaTags = () => <Helmet>
   <meta name="description" content="An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency." />
   <meta property="og:description" content="An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency." />
   {/* <meta property="og:title" content="Sreeram Padmanabhan - Web Engineer | Web of thoughts" /> */}
-  <meta property="og:url" content="https://sreeram.app/" />
   <meta property="og:image" content="/img/og_image.jpg" />
   <meta property="og:type" content="website" />
   <meta property="fb:app_id" content="297023651089707" />

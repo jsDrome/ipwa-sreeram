@@ -147,6 +147,10 @@ const list = [
   //   title: 'The ZAxis Challenge',
   //   route: '/post/tech/apps/z-axis',
   // },
+  {
+    title: 'Javascript Interview preparation',
+    route: '/post/tech/interview/interview',
+  },
 ];
 
 const getLinks = (folder, subfolder, post) => {

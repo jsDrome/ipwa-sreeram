@@ -1,8 +1,9 @@
 export default () => ({
   social: {
-    width: 300,
+    width: 'fit-content',
     margin: 'auto',
-    marginBottom: 15,
+    padding: 15,
+    paddingTop: 0,
   },
   socialLink: {
     margin: 1,
