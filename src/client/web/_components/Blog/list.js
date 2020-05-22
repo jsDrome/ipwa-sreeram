@@ -103,6 +103,34 @@ const list = [
     title: 'Zach Wahls speech in 2011',
     route: '/post/personal/inspirational/zach-wahls',
   },
+  {
+    title: 'The confusing array methods',
+    route: '/post/tech/javascript/confusing-array-methods',
+  },
+  {
+    title: 'Functions & Constructors',
+    route: '/post/tech/javascript/functions-contructors',
+  },
+  {
+    title: 'The Set Data Structure',
+    route: '/post/tech/javascript/sets-data-structures',
+  },
+  {
+    title: 'The Queue Data Structure',
+    route: '/post/tech/javascript/queue-data-structures',
+  },
+  {
+    title: 'Binary Search Tree',
+    route: '/post/tech/javascript/binary-search-tree',
+  },
+  {
+    title: 'The ZAxis Challenge',
+    route: '/post/tech/apps/z-axis',
+  },
+  {
+    title: 'Frontend Interview preparation',
+    route: '/post/tech/interview/preparation',
+  },
   // {
   //   title: 'Features of Javascript',
   //   route: '/post/tech/javascript/javascript-features',
@@ -123,33 +151,73 @@ const list = [
   //   title: 'Closures',
   //   route: '/post/tech/javascript/closures',
   // },
-  // {
-  //   title: 'The confusing array methods',
-  //   route: '/post/tech/javascript/confusing-array-methods',
-  // },
-  // {
-  //   title: 'Functions & Constructors',
-  //   route: '/post/tech/javascript/functions-contructors',
-  // },
-  // {
-  //   title: 'The Set Data Structure',
-  //   route: '/post/tech/javascript/sets-data-structures',
-  // },
-  // {
-  //   title: 'The Queue Data Structure',
-  //   route: '/post/tech/javascript/queue-data-structures',
-  // },
-  // {
-  //   title: 'Binary Search Tree',
-  //   route: '/post/tech/javascript/binary-search-tree',
-  // },
-  // {
-  //   title: 'The ZAxis Challenge',
-  //   route: '/post/tech/apps/z-axis',
-  // },
   {
-    title: 'Javascript Interview preparation',
-    route: '/post/tech/interview/interview',
+    title: 'Computer Science Basics',
+    route: '/post/tech/interview/the-basics',
+  },
+  {
+    title: 'Books',
+    route: '/post/tech/interview/books',
+  },
+  {
+    title: 'Youtube Channels',
+    route: '/post/tech/interview/youtube-channels',
+  },
+  {
+    title: 'Github Repos',
+    route: '/post/tech/interview/github-repos',
+  },
+  {
+    title: 'JS Fundamentals',
+    route: '/post/tech/interview/js-fundamentals',
+  },
+  {
+    title: 'Datastructures',
+    route: '/post/tech/interview/datastructures',
+  },
+  {
+    title: 'Algorithms',
+    route: '/post/tech/interview/algorithms',
+  },
+  {
+    title: 'Leetcode Programs',
+    route: '/post/tech/interview/leetcode',
+  },
+  {
+    title: 'Hackerrank Programs',
+    route: '/post/tech/interview/hackerrank',
+  },
+  {
+    title: 'Hackerearth Programs',
+    route: '/post/tech/interview/hackerearth',
+  },
+  {
+    title: 'InterviewBit Programs',
+    route: '/post/tech/interview/interviewbit',
+  },
+  {
+    title: 'InterviewCake Programs',
+    route: '/post/tech/interview/interviewcake',
+  },
+  {
+    title: 'Codility Programs',
+    route: '/post/tech/interview/codility',
+  },
+  {
+    title: 'Online Learnings',
+    route: '/post/tech/interview/online-learnings',
+  },
+  {
+    title: 'Certifications',
+    route: '/post/tech/interview/certifications',
+  },
+  {
+    title: 'Personal Projects',
+    route: '/post/tech/interview/personal-projects',
+  },
+  {
+    title: 'Business I setup',
+    route: '/post/tech/interview/businesses',
   },
 ];
 

@@ -18,23 +18,15 @@ class Navigation extends React.Component {
   render() {
     const { classes, links: { prevLink, prevTitle, nextLink, nextTitle } } = this.props;
 
-    return <Stepper activeStep={1}>
+    return <Stepper activeStep={1} className={classes.root}>
       {<Step>
         <StepLabel icon={null}>
-          {prevLink ? <Link
-            className={classes.link}
-            href={prevLink}
-            color={"primary"}
-            variant="body2">{prevTitle}</Link> : <HomeIcon />}
+          {prevLink ? <Link href={prevLink}>{prevTitle}</Link> : <HomeIcon />}
         </StepLabel>
       </Step>}
       {<Step>
         <StepLabel icon={null}>
-          {nextLink ? <Link
-            className={classes.link}
-            href={nextLink}
-            color={"primary"}
-            variant="body2">{nextTitle}</Link> : <HomeIcon />}
+          {nextLink ? <Link href={nextLink}>{nextTitle}</Link> : <HomeIcon />}
         </StepLabel>
       </Step>}
     </Stepper>;

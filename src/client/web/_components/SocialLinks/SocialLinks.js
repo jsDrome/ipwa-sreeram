@@ -5,7 +5,7 @@ import { withStyles } from '@material-ui/core/styles';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import TwitterIcon from '@material-ui/icons/Twitter';
-import { FaHackerrank, FaNpm, FaQuora, FaGithubSquare, FaYoutube, FaMedium, FaKeybase } from 'react-icons/fa';
+import { FaHackerrank, FaNpm, FaQuora, FaGithubSquare, FaYoutube, FaMedium, FaKeybase, FaDev, FaJsfiddle, FaDocker } from 'react-icons/fa';
 import { TiSocialInstagram } from 'react-icons/ti';
 import { AiFillCode, AiFillCodeSandboxSquare } from 'react-icons/ai';
 import { IoMdAppstore } from 'react-icons/io';
@@ -29,6 +29,9 @@ const QUORA_LINK = 'https://www.quora.com/profile/Sreeram-Padmanabhan-1';
 const MEDIUM_LINK = 'https://medium.com/@sreeramofficial';
 const KEYBASE_LINK = 'https://keybase.io/sreeram';
 const PLAYSTORE_LINK = 'https://play.google.com/store/apps/developer?id=jsDrome&hl=en';
+const DEV_LINK = 'https://dev.to/sreeram';
+const JSFIDDLE_LINK = 'https://jsfiddle.net/sreeramofficial';
+const DOCKERHUB_LINK = 'https://hub.docker.com/u/sreeram';
 
 const SocialLinks = ({ classes }) => <div className={classes.social}>
   <Link className={classes.socialLink} href={GITHUB_LINK} target="_blank">
@@ -82,6 +85,16 @@ const SocialLinks = ({ classes }) => <div className={classes.social}>
   <Link className={classes.socialLink} href={PLAYSTORE_LINK} target="_blank">
     <IoMdAppstore className={classes.socialIcon} />
   </Link>
+  <Link className={classes.socialLink} href={DEV_LINK} target="_blank">
+    <FaDev className={classes.socialIcon} />
+  </Link>
+  <Link className={classes.socialLink} href={JSFIDDLE_LINK} target="_blank">
+    <FaJsfiddle className={classes.socialIcon} />
+  </Link>
+  <Link className={classes.socialLink} href={DOCKERHUB_LINK} target="_blank">
+    <FaDocker className={classes.socialIcon} />
+  </Link>
+
 </div>;
 
 export default withStyles(styles, { withTheme: true })(SocialLinks);

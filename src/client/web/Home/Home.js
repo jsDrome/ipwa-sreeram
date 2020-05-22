@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Button } from '@material-ui/core';
 import { withStyles } from '@material-ui/core/styles';
 import get from 'lodash/get';
 
@@ -11,8 +10,6 @@ import {
 } from '@jsdrome/components';
 
 import Register from '../Register/Register';
-import SocialLinks from '../_components/SocialLinks/SocialLinks';
-import Copyright from '../_components/Copyright/Copyright';
 import Blog from '../_components/Blog/Blog';
 import SidebarContent from '../_components/SidebarContent/SidebarContent';
 
@@ -56,9 +53,6 @@ const HomeLayout = ({ classes, match }) => {
     <Toolbar />
     <div className={classes.homeLayoutContents}>
       <Blog match={match} />
-      <SocialLinks />
-      <Button className={classes.payButton} href="/pay" variant="contained" color="primary">Buy me a coffee</Button>
-      <Copyright title="sreeram.app" />
     </div>
     <Sidebar isOpen={isSidebarOpen} onClose={() => setSidebarOpen(false)} title={"Sreeram"}>
       <SidebarContent onSelect={() => setSidebarOpen(false)} />

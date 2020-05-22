@@ -1,5 +1,8 @@
 export default theme => ({
-  link: {
-    color: theme.palette.tertiary,
+  root: {
+    background: theme.background.primary,
+    marginBottom: 15,
+    padding: 10,
+    borderRadius: 10,
   },
 });

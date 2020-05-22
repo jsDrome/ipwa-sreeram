@@ -2,31 +2,20 @@
 
 &nbsp;
 
-Let me begin by explaining stating a fact.
+Let me begin by stating a fact.
 
-Money is relative. So is being rich. Just because you have lot of money, doesnt make you rich. Having more money than others makes you rich.
+Richness is a relative term. Just because you have a lot of money, doesnt make you rich. Having more money than others does. Its all relative. Now, let me try to explain this with an anology between Running races and Investments.
 
-Now, let me through out two terms: Acceleration and Banks.
+In a running race, acceleration is when you run faster than your current speed. If there are 10 people running and if all of them accelerate at the same rate, in an ideal world, nobody is going to win the race. But of course in reality someone is going to win, but only by a very narrow margin. In terms of money, you accelerate when you are worth more than the previous day. Nobody is richer when everybody accelerate the same.
 
-Acceleration is when you run faster than your current speed. In terms of money, you accelerate when you are worth more than the previous day.
+Now lets look at Banks (Fixed deposits/Stock markets/Gold schemes/Mutual funds). They are just brokers. They take the money from people without ideas, and give it to the people who have ideas who accelerate its growth. Again, nobody is richer when everybody invest in the same things.
 
-Now let’s take a running race as an example with 10 people. If everybody accelerate equally, who gets to the end first? Nobody.
+Do you see where I am getting at? The only person who gets rich is the person with the ideas which are different from others.
 
-Now lets look at Banks. Banks are just brokers. They take the money from people without ideas, and give it to the people who have ideas who accelerate its growth. Stock markets, Gold schemes and Mutual funds are just a manifestation of this.
-
-Now let’s imagine a fictitious society of 10 people. If everybody invest in the same usual things to make money grow, who is the richest in the end? Nobody.
-
-Do you see where I am getting at?
-
-The point is, there is no value in following the crows. Stocks, Gold, FDs and MFs - everybody do it these days. Sure they help your money grow. But these are of diminishing returns. These are normal stuff people do. Nothing out of the ordinary.
+The point is, there is no value in following the crowd. Stocks, Gold, FDs and MFs - everybody do it these days. Sure they help your money grow. But these wont make you rich, because everybody does it. These are usual stuff usual people do. Nothing out of the ordinary. But people who take risks, they reap the rewards.
 
 So what can you do that makes you make more money than the others? For the investment that has the most returns is doing what others don’t do and with consistency. And thats investing in yourself with an appetite to take risks and learning from its failures.
 
-Reading regularly, being healthy, having a great personality, being a better person than the day before, getting another degree, thinking for yourself etc are some things you can do to invest in yourself. Try to create a company, travel the world, discuss and debate, learn from others, etc are somethings you can use your money to gain knowledge.
-
-The very job you got using your college degree is a proof of that. Daily investment for 4 years in knowledge in a college.
-
-There are things normal people in their normal life. The people who make money grow linearly fall in the middle class. The people who make money grow exponentially become rich. And knowing this is the secret sauce of rich people.
-
+Reading regularly, being healthy, having a great personality, being a better person than the day before, getting another degree, thinking for yourself etc are some things you can do to invest in yourself. Try to create a company, travel the world, discuss and debate, learn from others, etc are somethings you can use your money to gain knowledge. Do what others dont. There is value in that. And knowing this is the secret sauce of rich people. Putting everything in usual investments will only make you as rich as your neighbour.
 
 Good luck.
