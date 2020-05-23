@@ -1,12 +1,12 @@
 import React from "react";
 import { Button } from '@material-ui/core';
-import { Adsense, Content } from "@jsdrome/components";
+import { Content } from "@jsdrome/components";
 import { withStyles } from '@material-ui/core/styles';
 
 import Markdown from "../Markdown/Markdown";
 import Navigation from "../Navigation/Navigation";
 import SocialLinks from '../SocialLinks/SocialLinks';
-import Copyright from '../Copyright/Copyright';
+// import Copyright from '../Copyright/Copyright';
 
 import { getLinks } from './list';
 import styles from './Blog.styles';
