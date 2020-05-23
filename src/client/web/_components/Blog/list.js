@@ -103,30 +103,18 @@ const list = [
     title: 'Zach Wahls speech in 2011',
     route: '/post/personal/inspirational/zach-wahls',
   },
-  {
-    title: 'The confusing array methods',
-    route: '/post/tech/javascript/confusing-array-methods',
-  },
-  {
-    title: 'Functions & Constructors',
-    route: '/post/tech/javascript/functions-contructors',
-  },
-  {
-    title: 'The Set Data Structure',
-    route: '/post/tech/javascript/sets-data-structures',
-  },
-  {
-    title: 'The Queue Data Structure',
-    route: '/post/tech/javascript/queue-data-structures',
-  },
-  {
-    title: 'Binary Search Tree',
-    route: '/post/tech/javascript/binary-search-tree',
-  },
-  {
-    title: 'The ZAxis Challenge',
-    route: '/post/tech/apps/z-axis',
-  },
+  // {
+  //   title: 'The confusing array methods',
+  //   route: '/post/tech/javascript/confusing-array-methods',
+  // },
+  // {
+  //   title: 'Functions & Constructors',
+  //   route: '/post/tech/javascript/functions-contructors',
+  // },
+  // {
+  //   title: 'The ZAxis Challenge',
+  //   route: '/post/tech/apps/z-axis',
+  // },
   {
     title: 'Frontend Interview preparation',
     route: '/post/tech/interview/preparation',
@@ -152,22 +140,6 @@ const list = [
   //   route: '/post/tech/javascript/closures',
   // },
   {
-    title: 'Computer Science Basics',
-    route: '/post/tech/interview/the-basics',
-  },
-  {
-    title: 'Books',
-    route: '/post/tech/interview/books',
-  },
-  {
-    title: 'Youtube Channels',
-    route: '/post/tech/interview/youtube-channels',
-  },
-  {
-    title: 'Github Repos',
-    route: '/post/tech/interview/github-repos',
-  },
-  {
     title: 'JS Fundamentals',
     route: '/post/tech/interview/js-fundamentals',
   },
@@ -180,45 +152,41 @@ const list = [
     route: '/post/tech/interview/algorithms',
   },
   {
-    title: 'Leetcode Programs',
+    title: 'Leetcode Problems',
     route: '/post/tech/interview/leetcode',
   },
   {
-    title: 'Hackerrank Programs',
+    title: 'Hackerrank Problems',
     route: '/post/tech/interview/hackerrank',
   },
   {
-    title: 'Hackerearth Programs',
+    title: 'Hackerearth Problems',
     route: '/post/tech/interview/hackerearth',
   },
   {
-    title: 'InterviewBit Programs',
+    title: 'InterviewBit Problems',
     route: '/post/tech/interview/interviewbit',
   },
   {
-    title: 'InterviewCake Programs',
+    title: 'InterviewCake Problems',
     route: '/post/tech/interview/interviewcake',
   },
   {
-    title: 'Codility Programs',
+    title: 'Codility Problems',
     route: '/post/tech/interview/codility',
   },
-  {
-    title: 'Online Learnings',
-    route: '/post/tech/interview/online-learnings',
-  },
-  {
-    title: 'Certifications',
-    route: '/post/tech/interview/certifications',
-  },
-  {
-    title: 'Personal Projects',
-    route: '/post/tech/interview/personal-projects',
-  },
-  {
-    title: 'Business I setup',
-    route: '/post/tech/interview/businesses',
-  },
+  // {
+  //   title: 'Certifications',
+  //   route: '/post/tech/interview/certifications',
+  // },
+  // {
+  //   title: 'Personal Projects',
+  //   route: '/post/tech/interview/personal-projects',
+  // },
+  // {
+  //   title: 'Business I setup',
+  //   route: '/post/tech/interview/businesses',
+  // },
 ];
 
 const getLinks = (folder, subfolder, post) => {

@@ -1,4 +1,4 @@
-## How hard is it to get a Web Developer job?
+# How hard is it to get a Web Developer job?
 
 &nbsp;
 

@@ -50,8 +50,8 @@ const template = (helmet, html, css, isUserLoggedIn, user, title) => `
     </script>
     <body>
       <div id="root">${html}</div>
-      <script type="text/javascript" src="/app.bundle.js"></script>
-      <script type="text/javascript" src="/npm.bundle.js"></script>
+      <script defer type="text/javascript" src="/app.bundle.js"></script>
+      <script defer type="text/javascript" src="/npm.bundle.js"></script>
     </body>
   </html>
 `;

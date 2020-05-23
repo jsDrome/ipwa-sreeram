@@ -29,5 +29,3 @@ I moved to **London** in 2016 to work for **Lloyds Banking Group**. The work the
 ### 2020 - Moving to Berin, Second startup
 
 I moved to **Berlin** towards the end of 2019 for yet another adventure to work for **Delivery Hero**. I have also set up a non profit orgnaization called **jsDrome** to train people for the web for free and I also create softwares under this organisation. Very recently, I have taken a keen interest towards Computer Science, Mathematics and Physics.
-
-&nbsp;

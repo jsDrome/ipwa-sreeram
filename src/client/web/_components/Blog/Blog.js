@@ -22,18 +22,18 @@ const Blog = ({ classes, match }) => {
       <Markdown>
         {content}
       </Markdown>
+      <Button className={classes.payButton} href="/pay" variant="contained" color="primary">☕ Buy me a coffee maybe?</Button>
       <div className={classes.stickyFooter}>
         <Navigation links={navLinks} />
         <SocialLinks />
+        {/* <Copyright title="sreeram.app" /> */}
       </div>
-      <Adsense
+      {/* <Adsense
         adFormat="fluid"
         adClient="ca-pub-6831276331714408"
         adSlot="8343723799"
-        layoutKey="-h4-l+d-4g+dw" />
+        layoutKey="-h4-l+d-4g+dw" /> */}
     </Content>
-    <Button className={classes.payButton} href="/pay" variant="contained" color="primary">Buy me a coffee</Button>
-    <Copyright title="sreeram.app" />
   </div>
 };
 

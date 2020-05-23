@@ -33,6 +33,7 @@ const MetaTags = () => <Helmet>
           .catch(registrationError => { console.log('SW registration failed: ', registrationError); });
       });
     }`}</script>}
+  <script data-ad-client="ca-pub-6831276331714408" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <style>{`
   @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500&display=swap');
   body {

@@ -49,9 +49,9 @@ const SocialLinks = ({ classes }) => <div className={classes.social}>
   {/* <Link className={classes.socialLink} href={FREECODECAMP_LINK} target="_blank">
     <FaFreeCodeCamp className={classes.socialIcon} />
   </Link> */}
-  <Link className={classes.socialLink} href={CODESANDBOX_LINK} target="_blank">
+  {/* <Link className={classes.socialLink} href={CODESANDBOX_LINK} target="_blank">
     <AiFillCodeSandboxSquare className={classes.socialIcon} />
-  </Link>
+  </Link> */}
   <Link className={classes.socialLink} href={LINKEDIN_LINK} target="_blank">
     <LinkedInIcon className={classes.socialIcon} />
   </Link>
@@ -61,9 +61,9 @@ const SocialLinks = ({ classes }) => <div className={classes.social}>
   <Link className={classes.socialLink} href={FACEBOOK_LINK} target="_blank">
     <FacebookIcon className={classes.socialIcon} />
   </Link>
-  <Link className={classes.socialLink} href={YOUTUBE_LINK} target="_blank">
+  {/* <Link className={classes.socialLink} href={YOUTUBE_LINK} target="_blank">
     <FaYoutube className={classes.socialIcon} />
-  </Link>
+  </Link> */}
   <Link className={classes.socialLink} href={TWITTER_LINK} target="_blank">
     <TwitterIcon className={classes.socialIcon} />
   </Link>
@@ -73,7 +73,7 @@ const SocialLinks = ({ classes }) => <div className={classes.social}>
   <Link className={classes.socialLink} href={QUORA_LINK} target="_blank">
     <FaQuora className={classes.socialIcon} />
   </Link>
-  <Link className={classes.socialLink} href={MEDIUM_LINK} target="_blank">
+  {/* <Link className={classes.socialLink} href={MEDIUM_LINK} target="_blank">
     <FaMedium className={classes.socialIcon} />
   </Link>
   <Link className={classes.socialLink} href={NPM_LINK} target="_blank">
@@ -82,7 +82,7 @@ const SocialLinks = ({ classes }) => <div className={classes.social}>
   <Link className={classes.socialLink} href={KEYBASE_LINK} target="_blank">
     <FaKeybase className={classes.socialIcon} />
   </Link>
-  <Link className={classes.socialLink} href={PLAYSTORE_LINK} target="_blank">
+  {/* <Link className={classes.socialLink} href={PLAYSTORE_LINK} target="_blank">
     <IoMdAppstore className={classes.socialIcon} />
   </Link>
   <Link className={classes.socialLink} href={DEV_LINK} target="_blank">
@@ -93,7 +93,7 @@ const SocialLinks = ({ classes }) => <div className={classes.social}>
   </Link>
   <Link className={classes.socialLink} href={DOCKERHUB_LINK} target="_blank">
     <FaDocker className={classes.socialIcon} />
-  </Link>
+  </Link> */}
 
 </div>;
 

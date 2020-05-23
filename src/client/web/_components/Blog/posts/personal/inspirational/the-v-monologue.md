@@ -1,5 +1,3 @@
-<img style="width: 100%; margin-bottom: 20px;" src="/img/v-speech.jpg" title="v-speech"/>
-
 # The V monologue
 
 &nbsp;

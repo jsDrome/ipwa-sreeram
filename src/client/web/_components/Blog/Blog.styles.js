@@ -5,9 +5,9 @@ export default theme => ({
   },
   paper: {
     [theme.breakpoints.up('md')]: {
-      maxHeight: 'calc(100% - 170px)',
+      maxHeight: 'calc(100% - 90px)',
     },
-    maxHeight: 'calc(100% - 150px)',
+    maxHeight: 'calc(100% - 70px)',
     overflowY: 'scroll',
     '&::-webkit-scrollbar': {
       display: 'none',
@@ -20,17 +20,14 @@ export default theme => ({
   payButton: {
     display: 'block',
     margin: 'auto',
-    marginBottom: 15,
+    // marginBottom: 15,
     width: 'fit-content',
   },
   stickyFooter: {
+    background: 'linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 1),rgba(255, 255, 255, 1),rgba(255, 255, 255, 1))',
     position: 'sticky',
     bottom: 0,
-    background: 'white',
-    paddingTop: 15,
+    paddingTop: 50,
     paddingBottom: 15,
-    [theme.breakpoints.up('md')]: {
-      paddingBottom: 25,
-    },
   },
 });
