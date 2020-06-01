@@ -7,6 +7,7 @@ export default theme => ({
   },
   socialLink: {
     margin: 1,
+    fontSize: 0,
   },
   socialIcon: {
     [theme.breakpoints.up('md')]: {

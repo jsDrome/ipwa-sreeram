@@ -40,6 +40,10 @@ Adding to the things described above, I had a very short and sweet resume. If th
 
 Clearing the interview has been the toughest thing in my job search. I must have attended at least a 100 interviews in various companies over the past 8 years. In fact, I will attribute this as the secret to my success. Each interview tought me something new and this is where I learnt many things be it technical or related to my personality. Meetings with Tech panels, Managers, Video calls, Technical questions, Whiteboard programming, Leadership skills, Personality traits, Negotiation skills, Diplomatic skills, thriving under pressure etc are somethings which one can face only in an interview like scenario.
 
+## What a web developer should know
+
+**Read here** - <a href='/post/tech/interview/preparation' target='_blank'>/post/tech/interview/preparation</a>
+
 ## Final point
 
 So all of the above points done over a long period of time is the reason I found a job. But, if you are going after money, you should think again. Its the passion that stands between things falling into place and things falling into pieces. So, do what you love.

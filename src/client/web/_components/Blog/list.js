@@ -148,8 +148,12 @@ const list = [
     route: '/post/tech/interview/datastructures',
   },
   {
-    title: 'Algorithms',
-    route: '/post/tech/interview/algorithms',
+    title: 'Linked List algorithms',
+    route: '/post/tech/interview/linked-list-algorithms',
+  },
+  {
+    title: 'Cracking the coding Interview',
+    route: '/post/tech/interview/ctci',
   },
   {
     title: 'Leetcode Problems',
@@ -175,18 +179,18 @@ const list = [
     title: 'Codility Problems',
     route: '/post/tech/interview/codility',
   },
-  // {
-  //   title: 'Certifications',
-  //   route: '/post/tech/interview/certifications',
-  // },
-  // {
-  //   title: 'Personal Projects',
-  //   route: '/post/tech/interview/personal-projects',
-  // },
-  // {
-  //   title: 'Business I setup',
-  //   route: '/post/tech/interview/businesses',
-  // },
+  {
+    title: 'Certifications',
+    route: '/post/tech/interview/certifications',
+  },
+  {
+    title: 'Open Source projects',
+    route: '/post/tech/interview/open-source-projects',
+  },
+  {
+    title: 'Business I setup',
+    route: '/post/tech/interview/businesses',
+  },
 ];
 
 const getLinks = (folder, subfolder, post) => {

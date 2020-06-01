@@ -31,11 +31,11 @@ router.get('/(:a/:b/:c/:d)?', (req, res) => {
 });
 
 const template = (helmet, html, css, isUserLoggedIn, user, title) => `
-  <html ${helmet.htmlAttributes.toString()}>
+  <!DOCTYPE html />
+  <html lang="en" ${helmet.htmlAttributes.toString()}>
     <head>
       <title>${title}</title>
       <meta property="og:title" content="${title}" />
-      ${helmet.title.toString()}
       ${helmet.meta.toString()}
       ${helmet.link.toString()}
       ${helmet.style.toString()}

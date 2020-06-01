@@ -38,32 +38,41 @@ const QUORA_LINK = 'https://www.quora.com/profile/Sreeram-Padmanabhan-1';
 // const DOCKERHUB_LINK = 'https://hub.docker.com/u/sreeram';
 
 const SocialLinks = ({ classes }) => <div className={classes.social}>
-  <Link className={classes.socialLink} href={GITHUB_LINK} target="_blank">
+  <Link className={classes.socialLink} href={GITHUB_LINK} name="sreeram github" rel="noreferrer" target="_blank">
     <FaGithubSquare className={classes.socialIcon} />
+    Sreeram github
   </Link>
-  <Link className={classes.socialLink} href={STACKOVERFLOW_LINK} target="_blank">
+  <Link className={classes.socialLink} href={STACKOVERFLOW_LINK} name="sreeram stackoverflow" rel="noreferrer" target="_blank">
     <RiStackOverflowLine className={classes.socialIcon} />
+    sreeram stackoverflow
   </Link>
-  <Link className={classes.socialLink} href={LEETCODE_LINK} target="_blank">
+  <Link className={classes.socialLink} href={LEETCODE_LINK} name="sreeram leetcode" rel="noreferrer" target="_blank">
     <AiFillCode className={classes.socialIcon} />
+    sreeram leetcode
   </Link>
-  <Link className={classes.socialLink} href={HACKERRANK_LINK} target="_blank">
+  <Link className={classes.socialLink} href={HACKERRANK_LINK} name="sreeram hackerrank" rel="noreferrer" target="_blank">
     <FaHackerrank className={classes.socialIcon} />
+    sreeram hackerrank
   </Link>
-  <Link className={classes.socialLink} href={LINKEDIN_LINK} target="_blank">
+  <Link className={classes.socialLink} href={LINKEDIN_LINK} name="sreeram linkedin" rel="noreferrer" target="_blank">
     <LinkedInIcon className={classes.socialIcon} />
+    sreeram linkedin
   </Link>
-  <Link className={classes.socialLink} href={INSTAGRAM_LINK} target="_blank">
+  <Link className={classes.socialLink} href={INSTAGRAM_LINK} name="sreeram instagram" rel="noreferrer" target="_blank">
     <TiSocialInstagram className={classes.socialIcon} />
+    sreeram instagram
   </Link>
-  <Link className={classes.socialLink} href={FACEBOOK_LINK} target="_blank">
+  <Link className={classes.socialLink} href={FACEBOOK_LINK} name="sreeram facebook" rel="noreferrer" target="_blank">
     <FacebookIcon className={classes.socialIcon} />
+    sreeram facebook
   </Link>
-  <Link className={classes.socialLink} href={TWITTER_LINK} target="_blank">
+  <Link className={classes.socialLink} href={TWITTER_LINK} name="sreeram twitter" rel="noreferrer" target="_blank">
     <TwitterIcon className={classes.socialIcon} />
+    sreeram twitter
   </Link>
-  <Link className={classes.socialLink} href={QUORA_LINK} target="_blank">
+  <Link className={classes.socialLink} href={QUORA_LINK} name="sreeram quora" rel="noreferrer" target="_blank">
     <FaQuora className={classes.socialIcon} />
+    sreeram quora
   </Link>
   {/* <Link className={classes.socialLink} href={FREECODECAMP_LINK} target="_blank">
     <FaFreeCodeCamp className={classes.socialIcon} />

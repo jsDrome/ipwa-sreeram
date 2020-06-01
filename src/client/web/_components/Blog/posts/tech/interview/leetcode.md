@@ -1,10 +1,12 @@
 # Leetcode problems
 
+#### 24 May, 2020
+
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 
 ## Arrays
 
-### 1. Remove Duplicates from sorted array (2 pointer method)
+### 1. Remove Duplicates from sorted array
 
     var removeDuplicates = function(nums) {
         if (!nums) return 0;
@@ -134,17 +136,29 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/
         return true;
     };
 
+## Strings
+
+### 12. Reverse string
+
+    var reverseString = function(s) {
+        for (let i = 0; i < s.length / 2; i++) {
+            const temp = s[i];
+            s[i] = s[s.length - i - 1];
+            s[s.length - i - 1] = temp;
+        }
+    };
+
+
 ## Linked Lists
 
 ### 1. Delete node in a Linked List
 
     var deleteNode = function(node) {
-        console.log(node);
         node.val = node.next.val;
         node.next = node.next.next;
     };
 
-### 2. Remove Nth Node From End of List
+### 2. Delete nth Node From End of List
 
     var removeNthFromEnd = function(head, n) {
       let i = 1;
@@ -193,4 +207,53 @@ https://leetcode.com/explore/interview/card/top-interview-questions-easy/
             ret.push(str || i + '');
         }
         return ret;
+    };
+
+
+
+
+## Others
+
+### 47. Pascal's triange
+
+    var generate = function(numRows) {
+        if (numRows === 0) return [];
+
+        let res = [[1]];
+
+        for (let i = 1; i < numRows; i++) {
+            res[i] = [1];
+            for (let j = 0; j < res[i-1].length; j++) {
+                res[i].push(res[i-1][j] + (res[i-1][j+1] || 0));
+            }
+        }
+        return res;
+    };
+
+
+### 48. Valid Parantheses
+
+    var isValid = function(s) {
+        const complementary = {
+            "}": "{",
+            "]": "[",
+            ")": "("
+          };
+
+          let stack = [];
+
+          for (let i = 0; i < s.length; i++) {
+            if (complementary[s[i]] && stack[stack.length - 1] === complementary[s[i]])
+              stack.pop();
+            else stack.push(s[i]);
+          }
+          return stack.length === 0;
+    };
+
+### 49. Missing number
+
+    var missingNumber = function(nums) {
+        const expected = nums.length * (nums.length + 1) / 2;
+        const sum = nums.reduce((acc, num) => acc += num);
+        return expected - sum;
     };

@@ -14,7 +14,7 @@ class SidebarContent extends Component {
     this.setState({
       selectedListItem: i,
     });
-    this.props.onSelect();
+    this.props.onSelect && this.props.onSelect();
   }
   isSelected(i) {
     const { selectedListItem } = this.state;

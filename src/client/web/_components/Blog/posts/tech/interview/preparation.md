@@ -1,14 +1,20 @@
 # How to prepare for a Frontend engineer technical Interview
 
-#### 23 May, 2020
+#### 1 June, 2020
 
-Preparing for a big interview can be daunting. But it can be achieved with patience and persistence. Here are the following I did in the past 10 years. To me, it has been a continual process through experience.
+Preparing for a big interview can be daunting. But it can be achieved with patience and persistence. Here are the following I did in the past 10 years. This is not by any means the go to guide for clearing interviews, but these I felt are very essential to crack that big job. I will not say you can achieve this in 3 months. But its not impossible. But what companies look for are people who have a track record of delivering, people who apply what they learn, people who are good at problem solving, people who are quick on their feet, people who take initiative, people who more often than not take the right technical decisions, people with an entreprenurial spirit, people who mentor, people who are software engineers first before anything else.
 
-## 1. Computer Science basics**
+&nbsp;
 
-I believe that one has to be a good software engineer first before being a Web Developer. Understanding core concepts of computer science is essential. You may be able to slice and dice a list of transactions to be displayed on a page. But the way you slice and dice matters. If you use a less efficient algorithm, it will cost you more.
+## Experience
 
-**Basics of Computer science** - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+I have been in the field for a decade. I have worked for several organisations, been in different kinds of teams, delivered some great things, created some businesses, failed in many. How much of this should a person do can vary. For me, not coming from a computer science background, I had to have this.
+
+&nbsp;
+
+## Basics
+
+**Crash course computer science** - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 **Basics of JavaScript** - https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
 
@@ -18,33 +24,49 @@ I believe that one has to be a good software engineer first before being a Web D
 
 **Data Structures using Javascript** - https://www.youtube.com/watch?v=t2CEgPsws3U
 
-&nbsp;
+**JavaScript fundamentals interview questions** - <a target="_blank" href='/post/tech/interview/js-fundamentals'>/post/tech/interview/js-fundamentals</a>
 
-## 2. Books I read
+**Data Structures in JavaScript** - <a target="_blank" href='/post/tech/interview/datastructures'>/post/tech/interview/datastructures</a>
 
-**Cracking the Coding Interview**
-
-**Algorithms to live by**
-
-**The Twelve-Factor app** - https://12factor.net/
+**Linked list algorithms in JavaScript** - <a target="_blank" href='/post/tech/interview/linked-list-algorithms'>/post/tech/interview/linked-list-algorithms</a>
 
 &nbsp;
 
-## 3. Great Youtube channels
+## Competitive coding solutions
 
-**Clement Mihailescu** - https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
+**CTCI** - <a target="_blank" href='/post/tech/interview/ctci'>/post/tech/interview/ctci</a>
 
-**CS Dojo** - https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A
+**Leetcode** - <a target="_blank" href='/post/tech/interview/leetcode'>/post/tech/interview/leetcode</a>
+
+**Hackerrank** - <a target="_blank" href='/post/tech/interview/hackerrank'>/post/tech/interview/hackerrank</a>
+
+**Hackerearth** - <a target="_blank" href='/post/tech/interview/hackerearth'>/post/tech/interview/hackerearth</a>
+
+**InterviewBit** - <a target="_blank" href='/post/tech/interview/interviewbit'>/post/tech/interview/interviewbit</a>
+
+**InterviewCake**-  <a target="_blank" href='/post/tech/interview/interviewcake'>/post/tech/interview/interviewcake</a>
+
+**Codility** - <a target="_blank" href='/post/tech/interview/codility'>/post/tech/interview/codility</a>
+
+&nbsp;
+
+## Open source projects/Businesses/Certifications
+
+**Open source projects** - <a target="_blank" href='/post/tech/interview/open-source-projects'>/post/tech/interview/open-source-projects</a>
+
+**Businesses I setup** - <a target="_blank" href='/post/tech/interview/businesses'>/post/tech/interview/businesses</a>
+
+**Certifications** - <a target="_blank" href='/post/tech/interview/certifications'>/post/tech/interview/certifications</a>
+
+&nbsp;
+
+## Youtube channels
+
+**TEDed** - https://www.youtube.com/user/TEDEducation
 
 **Eddie Woo** - https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ
 
-**Gaurav Sen** - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
-
-**Jake Wright** - https://www.youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w
-
-**Tach Lead** - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
-
-**Coding Train** - https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+**1Blue3Brown** - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 
 **JSConf** - https://www.youtube.com/user/jsconfeu
 
@@ -58,9 +80,55 @@ I believe that one has to be a good software engineer first before being a Web D
 
 **Google Cloud Platform** - https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
 
+**Coding Train** - https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+
+**Gaurav Sen** - https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
+
+**CS Dojo** - https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A
+
+**Jake Wright** - https://www.youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w
+
+**Tech Lead** - https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
+
 &nbsp;
 
-## 4. Github Curated lists
+## Books/Websites
+
+**Algorithms to live by** - http://adbl.co/2lFSkUw
+
+**The Twelve-Factor app** - https://12factor.net/
+
+**PerformanceJS** https://performancejs.com
+
+**Advanced JavaScript** https://johnresig.com/apps/learn/
+
+**Google Developers** - https://developers.google.com/?hl=en
+
+**Google Tech Dev Guide** - https://techdevguide.withgoogle.com/
+
+**Cracking the Coding Interview** - http://www.crackingthecodinginterview.com/
+
+&nbsp;
+
+## Online learning websites
+
+**Egghead** - https://egghead.io
+
+**Udemy** - https://udemy.com
+
+**Glassdoor** - https://glassdoor.com
+
+**Stackoverflow** - https://stackoverflow.com
+
+**Coursera** - https://coursera.com
+
+**Qwiklabs** - https://qwiklabs.com
+
+**Linkedin Learning** - https://www.linkedin.com/learning/me
+
+&nbsp;
+
+## Github curated lists
 
 **leonardomso/33-js-concepts** - https://github.com/leonardomso/33-js-concepts
 
@@ -75,82 +143,3 @@ I believe that one has to be a good software engineer first before being a Web D
 **andrealmar/sre-university** - https://github.com/andrealmar/sre-university
 
 &nbsp;
-
-## 5. Online Learnings
-
-- Qwiklabs
-- Linkedin Learning
-- Udemy
-- Glassdoor
-
-&nbsp;
-
-## 6. JavaScript fundamental interview questions
-
-<a target="_blank" href='/post/tech/interview/js-fundamentals'>/post/tech/interview/js-fundamentals</a>
-
-&nbsp;
-
-## 7. Data Structures in JavaScript
-
-<a target="_blank" href='/post/tech/interview/datastructures'>/post/tech/interview/datastructures</a>
-
-&nbsp;
-
-## 8. Algorithms in JavaScript
-
-<a target="_blank" href='/post/tech/interview/algorithms'>/post/tech/interview/algorithms</a>
-
-&nbsp;
-
-## 9. Leetcode Problems
-
-<a target="_blank" href='/post/tech/interview/leetcode'>/post/tech/interview/leetcode</a>
-
-&nbsp;
-
-## 10. Hackerrank Problems
-
-<a target="_blank" href='/post/tech/interview/hackerrank'>/post/tech/interview/leetcode</a>
-
-&nbsp;
-
-## 11. Hackerearth problems
-
-<a target="_blank" href='/post/tech/interview/hackerearth'>/post/tech/interview/hackerearth</a>
-
-&nbsp;
-
-## 12. InterviewBit problems
-
-<a target="_blank" href='/post/tech/interview/interviewbit'>/post/tech/interview/interviewbit</a>
-
-&nbsp;
-
-## 13. InterviewCake problems
-
-<a target="_blank" href='/post/tech/interview/interviewcake'>/post/tech/interview/interviewcake</a>
-
-&nbsp;
-
-## 14. Codility problems
-
-<a target="_blank" href='/post/tech/interview/codility'>/post/tech/interview/codility</a>
-
-&nbsp;
-
-<!-- ## 15. Certifications
-
-<a target="_blank" href='/post/tech/interview/certifications'>/post/tech/interview/certifications</a>
-
-&nbsp;
-
-## 16. Personal Projects
-
-<a target="_blank" href='/post/tech/interview/personal-projects'>/post/tech/interview/personal-projects</a>
-
-&nbsp;
-
-## 17. Business I setup
-
-<a target="_blank" href='/post/tech/interview/businesses'>/post/tech/interview/businesses</a> -->
