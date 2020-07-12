@@ -7,7 +7,7 @@ const MetaTags = () => <Helmet>
   <meta charset="UTF-8" />
   <meta name="theme-color" content="#ffffff" />
   <meta name="author" content="Sreeram Padmanabhan" />
-  <meta name="keywords" content="sreeram, #sreeram, sreeram padmanabhan, sreeram god, sreeram movie, sreeram actor, jsdrome, siri, london, berlin, india, trivandrum, web, web developer, web engineer, creativity, web of thoughts" />
+  <meta name="keywords" content="sreer.am, sreeram, #sreeram, sreeram padmanabhan, sreeram god, sreeram movie, sreeram actor, jsdrome, siri, london, berlin, india, uk, germany, trivandrum, web, web developer, web engineer, creativity, web of thoughts, engineer, frontend, delivery hero, wipro, mjam, lloyds bank, leetcode, leetcode solutions, leetcode javascript solutions" />
   <meta property="og:image:alt" content="sreeram padmanabhan" />
   <meta name="description" content="An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency." />
   <meta property="og:description" content="An artist of the web, perfectionist engineering the web using JavaScript. I emphasise on creativity, time management and efficiency." />
@@ -37,12 +37,13 @@ const MetaTags = () => <Helmet>
   body {
     font-family: 'Ubuntu', sans-serif, Verdana, 'Trebuchet MS', 'Tahoma';
     margin: 0;
-    background-blend-mode: multiply, multiply, normal, normal;
-    background-image: linear-gradient(to bottom left, rgba(119,41,83,0.16) 0, rgba(119,41,83,0.16) 49.9%, transparent 50%),linear-gradient(to bottom right, rgba(228,228,228,0.5) 0, rgba(228,228,228,0.5) 49.9%, transparent 50%),linear-gradient(to top left, #fff 0%, #fff 49.3%, rgba(255,255,255,0) 50%, rgba(255,255,255,0) 100%),linear-gradient(-89deg, #e95420 0%, #772953 42%, #2c001e 94%);
-    background-position: top right, top left, right bottom -1px, left top;
+    background-image: url('/img/bg.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
-    background-size: 74% 99.83%, 68% 91%, 103.8% 20.26%, 100% 99.8%;
-    margin: 0;
+    background-attachment: fixed;
+  }
+  html::-webkit-scrollbar: {
+    display: 'none',
   }
   *, *:before, *:after {
     box-sizing: border-box;

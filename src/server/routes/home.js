@@ -30,30 +30,35 @@ router.get('/(:a/:b/:c/:d)?', (req, res) => {
   return res.send(template(helmet, app, css, _isUserLoggedIn, _user, title));
 });
 
-const template = (helmet, html, css, isUserLoggedIn, user, title) => `
-  <!DOCTYPE html />
-  <html lang="en" ${helmet.htmlAttributes.toString()}>
-    <head>
-      <title>${title}</title>
-      <meta property="og:title" content="${title}" />
-      ${helmet.meta.toString()}
-      ${helmet.link.toString()}
-      ${helmet.style.toString()}
-      ${helmet.script.toString()}
-      <style id="jss-server-side">${css}</style>
-    </head>
-    <script>
-      window._ipwa = {
-        isUserLoggedIn: ${isUserLoggedIn},
-        user: '${user}',
-      };
-    </script>
-    <body>
-      <div id="root">${html}</div>
-      <script defer type="text/javascript" src="/app.bundle.js"></script>
-      <script defer type="text/javascript" src="/npm.bundle.js"></script>
-    </body>
-  </html>
-`;
+const template = (helmet, html, css, isUserLoggedIn, user, title) => {
+  const script = process.env.NODE_ENV === 'development'
+    ? '<script defer type="text/javascript" src="/app.bundle.js"></script><script defer type="text/javascript" src="/npm.bundle.js"></script>'
+    : '<script defer type="text/javascript" src="/app.bundle.js"></script><script defer type="text/javascript" src="/npm.bundle.js"></script>';
+
+  return `
+    <!DOCTYPE html />
+    <html lang="en" ${helmet.htmlAttributes.toString()}>
+      <head>
+        <title>${title}</title>
+        <meta property="og:title" content="${title}" />
+        ${helmet.meta.toString()}
+        ${helmet.link.toString()}
+        ${helmet.style.toString()}
+        ${helmet.script.toString()}
+        <style id="jss-server-side">${css}</style>
+      </head>
+      <script>
+        window._ipwa = {
+          isUserLoggedIn: ${isUserLoggedIn},
+          user: '${user}',
+        };
+      </script>
+      <body>
+        <div id="root">${html}</div>
+        ${script}
+      </body>
+    </html>
+  `;
+};
 
 export default router;

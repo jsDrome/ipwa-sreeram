@@ -1,14 +1,16 @@
-# How to prepare for a Frontend engineer technical Interview
+# How to prepare for a Web Engineer Interview
 
 #### 1 June, 2020
 
-Preparing for a big interview can be daunting. But it can be achieved with patience and persistence. Here are the following I did in the past 10 years. This is not by any means the go to guide for clearing interviews, but these I felt are very essential to crack that big job. I will not say you can achieve this in 3 months. But its not impossible. But what companies look for are people who have a track record of delivering, people who apply what they learn, people who are good at problem solving, people who are quick on their feet, people who take initiative, people who more often than not take the right technical decisions, people with an entreprenurial spirit, people who mentor, people who are software engineers first before anything else.
+Preparing for a big interview can be daunting. But it can be achieved with patience and persistence. Here are the following I did in the past 10 years. This is not by any means a go to guide for clearing interviews, but these I felt are very essential to crack that big job. I will not say you can achieve this in 3 months. But its not impossible.
 
-&nbsp;
+## What companies look for
+
+What companies look for are people who have a track record of delivering, people who apply what they learn, people who are good at problem solving, people who are quick on their feet, people who take initiative, people who more often than not take the right technical decisions, people with an entreprenurial spirit, people who mentor, people who are software engineers first before anything else.
 
 ## Experience
 
-I have been in the field for a decade. I have worked for several organisations, been in different kinds of teams, delivered some great things, created some businesses, failed in many. How much of this should a person do can vary. For me, not coming from a computer science background, I had to have this.
+I have been in the field for a decade. I have worked for several organizations, been in different kinds of teams, delivered some great things, created some businesses, failed in many. I have been a leader, a good and bad one too. I have seen other experienced leaders leading small and large teams and I took a cue from them. How much of this should a person be can vary. For me, I had to do this.
 
 &nbsp;
 
@@ -29,6 +31,8 @@ I have been in the field for a decade. I have worked for several organisations, 
 **Data Structures in JavaScript** - <a target="_blank" href='/post/tech/interview/datastructures'>/post/tech/interview/datastructures</a>
 
 **Linked list algorithms in JavaScript** - <a target="_blank" href='/post/tech/interview/linked-list-algorithms'>/post/tech/interview/linked-list-algorithms</a>
+
+**BST algorithms in JavaScript** - <a target="_blank" href='/post/tech/interview/bst-algorithms'>/post/tech/interview/bst-algorithms</a>
 
 &nbsp;
 

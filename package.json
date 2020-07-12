@@ -27,7 +27,7 @@
     "test:percy": "percy exec -- node tests/percy/",
     "test:scripts": "sh ./node_modules/@jsdrome/scripts/test-scripts.sh",
     "release:heroku": "sh ./node_modules/@jsdrome/scripts/release_heroku.sh",
-    "release:firebase": "sh ./node_modules/@jsdrome/scripts/release_firebase.sh",
+    "release:firebase": "dotenv -e ./.env sh ./node_modules/@jsdrome/scripts/release_firebase.sh",
     "release:dockerhub": "sh ./node_modules/@jsdrome/scripts/release_dockerhub.sh",
     "release:github": "sh ./node_modules/@jsdrome/scripts/release_github.sh",
     "release:npm": "sh ./node_modules/@jsdrome/scripts/release_npm.sh",

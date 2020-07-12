@@ -26,7 +26,7 @@
 
 ## Print linked list
 
-https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
+https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list
 
     function printLinkedList(head) {
         if (!head) return;
@@ -39,7 +39,7 @@ https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/proble
 
 ## Print linked list in reverse
 
-https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
+https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse
 
     function reversePrint(head) {
         if (!head) return;
@@ -50,7 +50,7 @@ https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-rev
 
 ## Insert node at head
 
-https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
+https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list
 
     function insertNodeAtHead(head, data) {
         const node = new SinglyLinkedListNode(data);
@@ -61,7 +61,7 @@ https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list
 
 ## Insert node at tail
 
-https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
+https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list
 
     function insertNodeAtTail(head, data) {
         const node = new SinglyLinkedListNode(data);
@@ -76,7 +76,7 @@ https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list
 
 ## Insert node at specific position in a linked list
 
-https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
+https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list
 
     function insertNodeAtPosition(head, data, position) {
         const node = new SinglyLinkedListNode(data);
@@ -102,7 +102,7 @@ https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-
 
 ## Delete node in linked list
 
-https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list
 
     function deleteNode(head, position) {
         if (!head) return;
@@ -154,11 +154,10 @@ https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
         return head;
     }
 
-## Delete duplicate values from unsorted linked list
 
 ## Reverse a linked list
 
-https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
+https://www.hackerrank.com/challenges/reverse-a-linked-list
 
     function reverse(head) {
         let tail = null;
@@ -173,7 +172,7 @@ https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
 
 ## Merge 2 sorted linked lists
 
-https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
+https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists
 
     function mergeLists(head1, head2) {
         let p1 = head1;
@@ -201,7 +200,7 @@ https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
 
 ## Compare 2 linked lists
 
-https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
+https://www.hackerrank.com/challenges/compare-two-linked-lists
 
     function CompareLists(llist1, llist2) {
         if (!llist1 && !llist2) return true;
@@ -219,7 +218,7 @@ https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
 
 ## Detect cycle in a linked list
 
-https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
+https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle
 
     function hasCycle(head) {
         if (!head) return false;
@@ -268,3 +267,5 @@ https://leetcode.com/problems/add-two-numbers/
         if (carry) addToSum(carry);
         return sum;
     };
+
+## Delete duplicate values from unsorted linked list

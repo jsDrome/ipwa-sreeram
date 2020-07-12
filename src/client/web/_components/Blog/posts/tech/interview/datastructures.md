@@ -101,7 +101,7 @@
       }
     };
 
-## Binary Tree
+## Binary Search Tree
 
     const Node = class {
       constructor(data) {

@@ -1,10 +1,20 @@
-# Prototypes
+# JavaScript fundamentals interview questions
+
+#### 06 June, 2020
+
+## Closures
+
+<a href='/post/tech/javascript/closures'>/post/tech/javascript/closures</a>
+
+&nbsp;
+
+## Prototypes
 
     Array.prototype.print = function() {
       console.log(this);
     };
 
-### Program to check if a string is unique
+## Program to check if a string is unique
 
     String.prototype.isUnique = function() {
       return new Set(this).size === this.length;

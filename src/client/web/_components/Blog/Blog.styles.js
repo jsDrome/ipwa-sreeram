@@ -2,17 +2,24 @@ export default theme => ({
   content: {
     maxWidth: 900,
     margin: 'auto',
+    padding: '15px 10px',
+    [theme.breakpoints.up('md')]: {
+      padding: 20,
+    },
   },
   paper: {
+    // [theme.breakpoints.up('md')]: {
+    //   maxHeight: 'calc(150% - 90px)',
+    // },
+    // maxHeight: 'calc(150% - 70px)',
+    // overflowY: 'scroll',
+    // '&::-webkit-scrollbar': {
+    //   display: 'none',
+    // },
+    padding: 15,
     [theme.breakpoints.up('md')]: {
-      maxHeight: 'calc(100% - 90px)',
+      padding: 20,
     },
-    maxHeight: 'calc(100% - 70px)',
-    overflowY: 'scroll',
-    '&::-webkit-scrollbar': {
-      display: 'none',
-    },
-    paddingBottom: 0,
   },
   copyRightInfo: {
     textAlign: 'center',
@@ -20,14 +27,19 @@ export default theme => ({
   payButton: {
     display: 'block',
     margin: 'auto',
-    // marginBottom: 15,
     width: 'fit-content',
+    marginBottom: 15,
+    [theme.breakpoints.up('md')]: {
+      marginBottom: 20,
+    },
   },
-  stickyFooter: {
-    background: 'linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 1),rgba(255, 255, 255, 1),rgba(255, 255, 255, 1))',
-    position: 'sticky',
-    bottom: 0,
-    paddingTop: 50,
-    paddingBottom: 15,
+  footer: {
+    // background: 'linear-gradient(rgba(255, 255, 255, 0),rgba(255, 255, 255, 1),rgba(255, 255, 255, 1),rgba(255, 255, 255, 1))',
+    // paddingTop: 50,
+    // paddingBottom: 15,
+    padding: 5,
+    [theme.breakpoints.up('md')]: {
+      padding: 10,
+    },
   },
 });

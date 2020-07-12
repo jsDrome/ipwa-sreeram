@@ -33,7 +33,7 @@ const PAYTM_TEST = {
   INDUSTRY_TYPE_ID: 'Retail',
   CHANNEL_ID: 'WEB',
   TXN_AMOUNT,
-  CALLBACK_URL: isTestUser ? `http://localhost:5001/pay/process` : `https://sreeram.app/pay/process`,
+  CALLBACK_URL: isTestUser ? `http://localhost:5001/pay/process` : `https://sreer.am/pay/process`,
 };
 
 const PAYTM_PROD = {
