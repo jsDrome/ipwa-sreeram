@@ -229,7 +229,7 @@ const list = [
   },
   {
     title: '53. Maximum Subarray',
-    route: '/post/leetcode/medium/53',
+    route: '/post/leetcode/easy/53',
   },
   {
     title: '56. Merge Intervals',
@@ -273,7 +273,7 @@ const list = [
   },
   {
     title: '169. Majority Element',
-    route: '/post/leetcode/medium/169',
+    route: '/post/leetcode/easy/169',
   },
   {
     title: '199. Binary Tree Right Side View',
